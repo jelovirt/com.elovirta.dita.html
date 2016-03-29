@@ -30,7 +30,7 @@ Install
 1.  Run plug-in installation command
 
     ~~~~ {.sh}
-    dita -install https://github.com/jelovirt/dita-ot-markdown/releases/download/0.1.0/com.elovirta.dita.html_0.1.0.zip
+    dita -install https://github.com/jelovirt/com.elovirta.dita.html/releases/download/0.1.0/com.elovirta.dita.html_0.1.0.zip
     ~~~~
 
 The `dita` command line tool requires no additional configuration;
