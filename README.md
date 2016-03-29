@@ -40,7 +40,7 @@ to `CLASSPATH` with e.g. `-lib plugins/com.elovirta.dita.html`.
 Usage
 -----
 
-Markdown DITA topics can only be used by linking to them in map files.
+HDITA topics can only be used by linking to them in map files.
 
 ~~~~ {.xml}
 <map>
