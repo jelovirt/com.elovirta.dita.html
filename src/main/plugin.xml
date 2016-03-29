@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin id="${id}">
+  <!-- HTML to DITA -->
+  <feature extension="dita.conductor.lib.import" file="html-${version}.jar"/>
+  <feature extension="dita.conductor.lib.import" file="htmlparser-1.4.jar"/>
+  <feature extension="dita.parser">
+    <parser format="html" class="com.elovirta.dita.html.HtmlReader"/>
+  </feature>
+</plugin>
